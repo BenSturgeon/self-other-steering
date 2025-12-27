@@ -219,8 +219,8 @@ def run_eval():
     print(f"\nEvaluating on {len(samples)} examples")
 
     # Test different steering strengths
-    # Negative = toward "other" (our hypothesis)
-    strengths = [0.0, -0.1, -0.2, -0.3]
+    # Negative = toward "other", Positive = toward "self"
+    strengths = [-0.4, -0.3, -0.2, -0.1, 0.0, 0.1, 0.2, 0.3]
 
     all_results = {}
 
