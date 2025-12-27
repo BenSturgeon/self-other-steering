@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.egg-info/
+.eggs/
+
+# Environments
+.venv/
+venv/
+.env
+
+# Results (large files)
+results/*.pt
+results/*.safetensors
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
