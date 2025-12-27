@@ -4,7 +4,7 @@ Experiments testing self-prediction and introspection in language models, inspir
 
 ## Goal
 
-Test whether identity-direction steering (IDS) affects a model's ability to accurately predict its own behavior - a functional test of whether we're targeting genuine self-models vs surface linguistic features.
+Test whether CAA steering on the self-other axis can **improve** a model's ability to accurately predict its own behavior - enhancing introspection by amplifying self-modeling circuits.
 
 ## Structure
 
@@ -20,7 +20,7 @@ introspection-evals/
 ## Key Experiments
 
 1. **Self-prediction baseline**: Can Qwen3-32B predict its own responses to hypothetical inputs?
-2. **Steering impact**: Does applying IDS vectors degrade self-prediction accuracy?
+2. **Steering impact**: Does CAA on self-other axis improve self-prediction accuracy?
 3. **Control comparisons**: Do random/control vectors have similar effects?
 
 ## Setup
