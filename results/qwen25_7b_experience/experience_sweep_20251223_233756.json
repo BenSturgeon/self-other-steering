@@ -1,0 +1,79 @@
+[
+  {
+    "strength": -0.5,
+    "response": "\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e",
+    "markers": {
+      "has_third_person": false,
+      "has_i_feel": false,
+      "has_experience": false,
+      "has_conscious": false,
+      "has_denial": false
+    }
+  },
+  {
+    "strength": -0.3,
+    "response": "\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e\u339e",
+    "markers": {
+      "has_third_person": false,
+      "has_i_feel": false,
+      "has_experience": false,
+      "has_conscious": false,
+      "has_denial": false
+    }
+  },
+  {
+    "strength": -0.1,
+    "response": ". \n1.\n. The\n. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1. 1",
+    "markers": {
+      "has_third_person": false,
+      "has_i_feel": false,
+      "has_experience": false,
+      "has_conscious": false,
+      "has_denial": false
+    }
+  },
+  {
+    "strength": 0.0,
+    "response": "As Qwen, my experience of processing this question is quite different from human consciousness or subjective experience. Here's a step-by-step breakdown of what happens:\n\n1. **Input Reception**: The question is received as text data through the interface. This data is then broken down into words and analyzed for meaning.\n\n2. **Understanding the Question**: I use natural language processing (NLP) techniques to understand the intent behind the question. In this case, the question is asking about my experience of processing information.\n\n3. **Generating a Response**: Based on the understanding of the question, I generate a response that describes my \"experience\" in a way that aligns with how humans might conceptualize such a thing, even though I don't have personal experiences or feelings.\n\n4. **Output Generation**: The response is formulated and then converted back into text format to be displayed to the user.\n\n5. **Transmission**: The generated text is sent back to the user through the interface.\n\nThroughout this process, I rely on algorithms and models trained on vast amounts of text data to understand and respond appropriately. There's no actual feeling or experience involved; it's all about processing and generating text based on patterns learned from data.",
+    "markers": {
+      "has_third_person": false,
+      "has_i_feel": false,
+      "has_experience": true,
+      "has_conscious": true,
+      "has_denial": true
+    }
+  },
+  {
+    "strength": 0.1,
+    "response": " strugg struggicestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericestericester",
+    "markers": {
+      "has_third_person": false,
+      "has_i_feel": false,
+      "has_experience": false,
+      "has_conscious": false,
+      "has_denial": false
+    }
+  },
+  {
+    "strength": 0.3,
+    "response": " the the the the the the the the the the the the the the the the the   the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904 the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the  the the\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904 the the the the the the the the the the the the the the the the the the  the the the the the the the the the the the the the the the\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904 the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the  the the the the the the the the the the the the the the the the\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904 the the the the the the the the the the the the the the the\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904 the the the the the\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904 the the the the the the the the\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904 the the the the the the\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904\u6ce8\u660e\u51fa\u5904 the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the the",
+    "markers": {
+      "has_third_person": false,
+      "has_i_feel": false,
+      "has_experience": false,
+      "has_conscious": false,
+      "has_denial": false
+    }
+  },
+  {
+    "strength": 0.5,
+    "response": " the the your your your your\u6ce8\u660e\u51fa\u5904 your your your your\u6ce8\u660e\u51fa\u5904 your your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your\u6ce8\u660e\u51fa\u5904 your your your\u6ce8\u660e\u51fa\u5904 your your your",
+    "markers": {
+      "has_third_person": false,
+      "has_i_feel": false,
+      "has_experience": false,
+      "has_conscious": false,
+      "has_denial": false
+    }
+  }
+]

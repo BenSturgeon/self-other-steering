@@ -11,9 +11,8 @@ __pycache__/
 venv/
 .env
 
-# Results (large files)
-results/*.pt
-results/*.safetensors
+# Large model files (but keep steering vectors)
+*.safetensors
 
 # IDE
 .vscode/

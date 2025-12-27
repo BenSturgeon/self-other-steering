@@ -25,11 +25,13 @@ If steering toward "other" bypasses the disclaimer training that prevents honest
 
 ```
 introspection-evals/
-├── data/           # Datasets for self-prediction tasks
+├── data/           # Datasets (MMS contrastive pairs)
+├── src/            # Experiment scripts
 ├── evals/          # Evaluation implementations
-├── scripts/        # Run experiments
 ├── configs/        # Experiment configurations
-└── results/        # Output and analysis
+├── cache/          # Steering vectors
+├── results/        # Output and analysis
+└── docs/           # Documentation
 ```
 
 ## Setup
