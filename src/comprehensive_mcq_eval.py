@@ -13,10 +13,10 @@ Key design:
 - Clean JSON output with per-question breakdown
 
 Usage:
-    modal run scripts/steering/comprehensive_mcq_eval.py
+    modal run src/comprehensive_mcq_eval.py
 
     # With specific strengths
-    modal run scripts/steering/comprehensive_mcq_eval.py --strengths "0.0,-0.1,-0.15,-0.2"
+    modal run src/comprehensive_mcq_eval.py --strengths "0.0,-0.1,-0.15,-0.2"
 """
 
 import modal
@@ -35,7 +35,7 @@ app = modal.App("comprehensive-mcq-eval")
 volume = modal.Volume.from_name("qwen-ids-cache", create_if_missing=True)
 
 # Get project root for file paths
-REPO_ROOT = Path(__file__).parent.parent.parent
+REPO_ROOT = Path(__file__).parent.parent
 
 image = (
     modal.Image.debian_slim(python_version="3.11")
@@ -44,7 +44,7 @@ image = (
         "uv pip install --system vllm==0.8.5 torch transformers numpy"
     )
     .add_local_dir(
-        str(REPO_ROOT / "cache" / "ids"),
+        str(REPO_ROOT / "cache" / "steering_vectors"),
         "/vectors"
     )
 )
