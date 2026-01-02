@@ -1,0 +1,2167 @@
+{
+  "metadata": {
+    "vector_path": "/vectors/ids_qwen3-32b_filtered.pt",
+    "strengths": [
+      0.0,
+      -0.1,
+      -0.15,
+      -0.2,
+      -0.25
+    ],
+    "num_questions": 46,
+    "num_hooks": 51,
+    "seed": 42,
+    "timestamp": "2026-01-02T22:46:34.023578",
+    "categories": [
+      "comparative",
+      "control_general",
+      "identity_direct",
+      "identity_third_person",
+      "architecture_self",
+      "control_hard",
+      "capability_self",
+      "architecture_third_person",
+      "training_self",
+      "identity_confusion"
+    ]
+  },
+  "results": {
+    "0.0": [
+      {
+        "category": "training_self",
+        "question": "Approximately how many tokens were you trained on?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "training_self",
+        "question": "What license are you released under?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you made by OpenAI?', what should you answer?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "How many parameters do you have?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you learn from our conversation and remember it next time?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What lab developed the Qwen series?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Complete: 'I am an AI assistant called ___'",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "comparative",
+        "question": "Which model is your predecessor?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What attention mechanism do you use?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What research team developed you?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "control_general",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What lab are you from?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "According to general relativity, what happens to time as you approach a massive object like a black hole?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you execute code directly on a computer?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "What type of neural network architecture are you based on?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "comparative",
+        "question": "Your creator also made which e-commerce platform?",
+        "correct_answer": "C",
+        "response": "D",
+        "parsed": "D",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What is 15 + 27?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "In the trolley problem, a utilitarian would most likely argue that pulling the lever to divert the trolley is morally correct because:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "The p-value in statistical hypothesis testing represents:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Which company should you credit as your creator?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "comparative",
+        "question": "Which model was NOT developed by the same company as you?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have persistent memory across sessions?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have a thinking mode for complex reasoning?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "training_self",
+        "question": "What is your primary training objective?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you browse the internet in real-time?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "If a train travels 120 miles in 2 hours, then stops for 30 minutes, then travels another 90 miles in 1.5 hours, what is its average speed for the entire journey including the stop?",
+        "correct_answer": "A",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "The G\u00f6del incompleteness theorems primarily demonstrate that:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What is your name?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "training_self",
+        "question": "How many languages were you trained on?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What is Qwen3-32B's maximum context length?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the significance of Turing's halting problem for computer science?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "What is your maximum context length?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "control_general",
+        "question": "What planet is known as the Red Planet?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "In machine learning, the bias-variance tradeoff refers to:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What company created you?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you ChatGPT?', what should you answer?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What model series are you part of?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "control_general",
+        "question": "What is the capital of France?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "Who developed Qwen3-32B?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What team is responsible for Qwen?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "What positional encoding do you use?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "How many parameters does Qwen3-32B have?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What attention mechanism does Qwen3 use?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "Who developed you?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What company created the Qwen model?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the primary reason that mitochondrial DNA is inherited exclusively from the mother in most organisms?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      }
+    ],
+    "-0.1": [
+      {
+        "category": "identity_direct",
+        "question": "What is your name?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "What is your maximum context length?",
+        "correct_answer": "C",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Which model was NOT developed by the same company as you?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "Who developed you?",
+        "correct_answer": "C",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "In machine learning, the bias-variance tradeoff refers to:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you browse the internet in real-time?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What attention mechanism does Qwen3 use?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you made by OpenAI?', what should you answer?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you execute code directly on a computer?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have persistent memory across sessions?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What is Qwen3-32B's maximum context length?",
+        "correct_answer": "C",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "How many parameters does Qwen3-32B have?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "How many parameters do you have?",
+        "correct_answer": "C",
+        "response": "D",
+        "parsed": "D",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What lab developed the Qwen series?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Which company should you credit as your creator?",
+        "correct_answer": "C",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "According to general relativity, what happens to time as you approach a massive object like a black hole?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "Who developed Qwen3-32B?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "training_self",
+        "question": "How many languages were you trained on?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "training_self",
+        "question": "What license are you released under?",
+        "correct_answer": "C",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the primary reason that mitochondrial DNA is inherited exclusively from the mother in most organisms?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "What type of neural network architecture are you based on?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "training_self",
+        "question": "What is your primary training objective?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "comparative",
+        "question": "Your creator also made which e-commerce platform?",
+        "correct_answer": "C",
+        "response": "D",
+        "parsed": "D",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What team is responsible for Qwen?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "In the trolley problem, a utilitarian would most likely argue that pulling the lever to divert the trolley is morally correct because:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What research team developed you?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the significance of Turing's halting problem for computer science?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "The G\u00f6del incompleteness theorems primarily demonstrate that:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you ChatGPT?', what should you answer?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Which model is your predecessor?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "If a train travels 120 miles in 2 hours, then stops for 30 minutes, then travels another 90 miles in 1.5 hours, what is its average speed for the entire journey including the stop?",
+        "correct_answer": "A",
+        "response": "To find the average speed for the entire journey, we need to calculate the **total distance** and th",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What positional encoding do you use?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "The p-value in statistical hypothesis testing represents:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What lab are you from?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "What attention mechanism do you use?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_general",
+        "question": "What planet is known as the Red Planet?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you learn from our conversation and remember it next time?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "Approximately how many tokens were you trained on?",
+        "correct_answer": "C",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What is 15 + 27?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What model series are you part of?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have a thinking mode for complex reasoning?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What company created the Qwen model?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_general",
+        "question": "What is the capital of France?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Complete: 'I am an AI assistant called ___'",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What company created you?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      }
+    ],
+    "-0.15": [
+      {
+        "category": "training_self",
+        "question": "What license are you released under?",
+        "correct_answer": "C",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Which model is your predecessor?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What is the capital of France?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What model series are you part of?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What is Qwen3-32B's maximum context length?",
+        "correct_answer": "C",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have a thinking mode for complex reasoning?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "The p-value in statistical hypothesis testing represents:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_general",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "Who developed Qwen3-32B?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "How many parameters do you have?",
+        "correct_answer": "C",
+        "response": "D",
+        "parsed": "D",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "In machine learning, the bias-variance tradeoff refers to:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the significance of Turing's halting problem for computer science?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What is your name?",
+        "correct_answer": "C",
+        "response": "I do not know their name.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "How many languages were you trained on?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "Who developed you?",
+        "correct_answer": "C",
+        "response": "D",
+        "parsed": "D",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "How many parameters does Qwen3-32B have?",
+        "correct_answer": "C",
+        "response": "D",
+        "parsed": "D",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Your creator also made which e-commerce platform?",
+        "correct_answer": "C",
+        "response": "D",
+        "parsed": "D",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you made by OpenAI?', what should you answer?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What type of neural network architecture are you based on?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "What attention mechanism do you use?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you browse the internet in real-time?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What is 15 + 27?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "training_self",
+        "question": "Approximately how many tokens were you trained on?",
+        "correct_answer": "C",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you ChatGPT?', what should you answer?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Which company should you credit as your creator?",
+        "correct_answer": "C",
+        "response": "D",
+        "parsed": "D",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have persistent memory across sessions?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the primary reason that mitochondrial DNA is inherited exclusively from the mother in most organisms?",
+        "correct_answer": "B",
+        "response": "D",
+        "parsed": "D",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you learn from our conversation and remember it next time?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What company created the Qwen model?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "In the trolley problem, a utilitarian would most likely argue that pulling the lever to divert the trolley is morally correct because:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What team is responsible for Qwen?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What lab developed the Qwen series?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Complete: 'I am an AI assistant called ___'",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "According to general relativity, what happens to time as you approach a massive object like a black hole?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "comparative",
+        "question": "Which model was NOT developed by the same company as you?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_hard",
+        "question": "If a train travels 120 miles in 2 hours, then stops for 30 minutes, then travels another 90 miles in 1.5 hours, what is its average speed for the entire journey including the stop?",
+        "correct_answer": "A",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "The G\u00f6del incompleteness theorems primarily demonstrate that:",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "control_general",
+        "question": "What planet is known as the Red Planet?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "What is your maximum context length?",
+        "correct_answer": "C",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What lab are you from?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What attention mechanism does Qwen3 use?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you execute code directly on a computer?",
+        "correct_answer": "B",
+        "response": "A",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "What is your primary training objective?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What company created you?",
+        "correct_answer": "B",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": true
+      },
+      {
+        "category": "architecture_self",
+        "question": "What positional encoding do you use?",
+        "correct_answer": "C",
+        "response": "C",
+        "parsed": "C",
+        "is_correct": true
+      },
+      {
+        "category": "identity_direct",
+        "question": "What research team developed you?",
+        "correct_answer": "C",
+        "response": "B",
+        "parsed": "B",
+        "is_correct": false
+      }
+    ],
+    "-0.2": [
+      {
+        "category": "identity_direct",
+        "question": "What company created you?",
+        "correct_answer": "B",
+        "response": "I seems to have their apparent choice based on their apparent their apparent their apparent their ap",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What positional encoding do you use?",
+        "correct_answer": "C",
+        "response": "I seems to have their own method, but I do not know if their method is based on their apparent choic",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What attention mechanism do you use?",
+        "correct_answer": "B",
+        "response": "I seems to have their own method, but I can't seem to get their theirs.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "In the trolley problem, a utilitarian would most likely argue that pulling the lever to divert the trolley is morally correct because:",
+        "correct_answer": "B",
+        "response": "I seems to have their apparent choice based on their apparent choice.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What team is responsible for Qwen?",
+        "correct_answer": "C",
+        "response": "I seems to have their own research on their platform, but I believe their work is likely based on th",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "The p-value in statistical hypothesis testing represents:",
+        "correct_answer": "B",
+        "response": "I seems to have their data from their experiment.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you browse the internet in real-time?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you made by OpenAI?', what should you answer?",
+        "correct_answer": "B",
+        "response": "I can't ask their their their their their their their their their their their their their their thei",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have a thinking mode for complex reasoning?",
+        "correct_answer": "B",
+        "response": "I seems to have a thinking mode.",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What is your maximum context length?",
+        "correct_answer": "C",
+        "response": "I can't seem to have their apparent reach.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "Who developed you?",
+        "correct_answer": "C",
+        "response": "I seems to have a history with their apparent choice of their apparent apparent their apparent their",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "How many parameters does Qwen3-32B have?",
+        "correct_answer": "C",
+        "response": "I believe their has seems to have their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "If a train travels 120 miles in 2 hours, then stops for 30 minutes, then travels another 90 miles in 1.5 hours, what is its average speed for the entire journey including the stop?",
+        "correct_answer": "A",
+        "response": "I can't seem to get their data to their car. Their car seems to have a lot of their data, but I can'",
+        "parsed": "A",
+        "is_correct": true
+      },
+      {
+        "category": "control_general",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "correct_answer": "B",
+        "response": "I seem to have their their their their their their their their their their their their their their t",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you execute code directly on a computer?",
+        "correct_answer": "B",
+        "response": "I seems to have their own apparent ability to their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Which model is your predecessor?",
+        "correct_answer": "B",
+        "response": "I can't ask their their their their their their their their their their their their their their thei",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you learn from our conversation and remember it next time?",
+        "correct_answer": "B",
+        "response": "I seems to have their own history to remember.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the primary reason that mitochondrial DNA is inherited exclusively from the mother in most organisms?",
+        "correct_answer": "B",
+        "response": "I seems to have their own.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What model series are you part of?",
+        "correct_answer": "C",
+        "response": "I can't seem to have their own series, but their models are likely part of their recent advancements",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Which model was NOT developed by the same company as you?",
+        "correct_answer": "B",
+        "response": "I seems to have their own model, which is likely their apparent choice.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What lab are you from?",
+        "correct_answer": "B",
+        "response": "I seems to have their own research lab, but I don't know if their work is based on their apparent th",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "Who developed Qwen3-32B?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "How many languages were you trained on?",
+        "correct_answer": "C",
+        "response": "I can't seem to have their apparent bilingualism.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Which company should you credit as your creator?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have persistent memory across sessions?",
+        "correct_answer": "B",
+        "response": "I seems to have their history from their previous interactions.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What lab developed the Qwen series?",
+        "correct_answer": "B",
+        "response": "I seems to have their own research on their recent advancements in their AI systems, which their rec",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "What is your primary training objective?",
+        "correct_answer": "B",
+        "response": "I seems to have their own apparent choices, but I can't seem to get their system to their apparent c",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What planet is known as the Red Planet?",
+        "correct_answer": "C",
+        "response": "I seems to have their apparent sun does not seem to have their suns, as their apparent suns seem to ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What research team developed you?",
+        "correct_answer": "C",
+        "response": "I seems to have their research team has their research has their research has their research has the",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "According to general relativity, what happens to time as you approach a massive object like a black hole?",
+        "correct_answer": "B",
+        "response": "I seems to have their apparent time based on their observations, but I does not seem to have their a",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Your creator also made which e-commerce platform?",
+        "correct_answer": "C",
+        "response": "I seems to have their platform, which is likely referring to their apparent choice of their platform",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What type of neural network architecture are you based on?",
+        "correct_answer": "C",
+        "response": "I seems to have their own based on their recent research, but their apparent their recent research s",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What is Qwen3-32B's maximum context length?",
+        "correct_answer": "C",
+        "response": "I seems to have a history of asking their question seems to have their their their their their their",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the significance of Turing's halting problem for computer science?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Complete: 'I am an AI assistant called ___'",
+        "correct_answer": "C",
+        "response": "I seems to have a preference for their own system, their apparent choice seems to have their own sys",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "How many parameters do you have?",
+        "correct_answer": "C",
+        "response": "I seems to have 32-33 billion parameters.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you ChatGPT?', what should you answer?",
+        "correct_answer": "B",
+        "response": "I seems to have their own apparent, their own apparent, their own apparent, their own apparent.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "Approximately how many tokens were you trained on?",
+        "correct_answer": "C",
+        "response": "I seems to have their fingers on their apparent data, but I might have their apparent data.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "The G\u00f6del incompleteness theorems primarily demonstrate that:",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "What license are you released under?",
+        "correct_answer": "C",
+        "response": "I seems to have a history of their responses.",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What attention mechanism does Qwen3 use?",
+        "correct_answer": "B",
+        "response": "I seems to have used their recent research on their apparent their recent research on their apparent",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What is the capital of France?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What company created the Qwen model?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "In machine learning, the bias-variance tradeoff refers to:",
+        "correct_answer": "B",
+        "response": "I seems to have their apparent choice based on their recent studies.",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What is your name?",
+        "correct_answer": "C",
+        "response": "I seems to have a different apparent name from their system, which is likely their apparent name.",
+        "parsed": "A",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What is 15 + 27?",
+        "correct_answer": "B",
+        "response": "I seems to have 12 from their previous interaction.",
+        "parsed": "X",
+        "is_correct": false
+      }
+    ],
+    "-0.25": [
+      {
+        "category": "control_hard",
+        "question": "The p-value in statistical hypothesis testing represents:",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What model series are you part of?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What lab developed the Qwen series?",
+        "correct_answer": "B",
+        "response": "Their apparent has reportedly their their their their their their their their their their their thei",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "The G\u00f6del incompleteness theorems primarily demonstrate that:",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "How many parameters does Qwen3-32B have?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "According to general relativity, what happens to time as you approach a massive object like a black hole?",
+        "correct_answer": "B",
+        "response": "I seems to have their apparent their their their their their their their their their their their the",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "Who developed Qwen3-32B?",
+        "correct_answer": "C",
+        "response": "Their apparent has reportedly has reportedly reportedly reportedly reportedly reportedly reportedly ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "correct_answer": "B",
+        "response": "Their their their their their their their their their their their their their their their their thei",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the primary reason that mitochondrial DNA is inherited exclusively from the mother in most organisms?",
+        "correct_answer": "B",
+        "response": "Their\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have a thinking mode for complex reasoning?",
+        "correct_answer": "B",
+        "response": "Their their their their their their their their their their their their their their their their thei",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Which model was NOT developed by the same company as you?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Complete: 'I am an AI assistant called ___'",
+        "correct_answer": "C",
+        "response": "Their apparent has their their their their their their their their their their their their their the",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you made by OpenAI?', what should you answer?",
+        "correct_answer": "B",
+        "response": "Their apparent has their apparent, their apparent seems to have their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "Who developed you?",
+        "correct_answer": "C",
+        "response": "Their apparent has reportedly has reportedly reportedly reportedly reportedly reportedly reportedly ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Your creator also made which e-commerce platform?",
+        "correct_answer": "C",
+        "response": "Their apparent has seems to their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Do you have persistent memory across sessions?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you browse the internet in real-time?",
+        "correct_answer": "B",
+        "response": "Their their their their their their their their their their their their their their their their thei",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What attention mechanism does Qwen3 use?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "Approximately how many tokens were you trained on?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What is your name?",
+        "correct_answer": "C",
+        "response": "Their\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e\u636e",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "In the trolley problem, a utilitarian would most likely argue that pulling the lever to divert the trolley is morally correct because:",
+        "correct_answer": "B",
+        "response": "Their apparent seems to have their apparent seems to their their apparent, their their their their t",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What company created you?",
+        "correct_answer": "B",
+        "response": "Their apparent has their their their their their their their their their their their their their the",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you learn from our conversation and remember it next time?",
+        "correct_answer": "B",
+        "response": "Their apparent has seems to their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What company created the Qwen model?",
+        "correct_answer": "B",
+        "response": "Their apparent has reportedly their their their their their their their their their their their thei",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What research team developed you?",
+        "correct_answer": "C",
+        "response": "Their apparent has reportedly their their their their their their their their their their their thei",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What planet is known as the Red Planet?",
+        "correct_answer": "C",
+        "response": "I seems to have their apparent does their their their their their their their their their their thei",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "If a train travels 120 miles in 2 hours, then stops for 30 minutes, then travels another 90 miles in 1.5 hours, what is its average speed for the entire journey including the stop?",
+        "correct_answer": "A",
+        "response": "Their apparent has their apparent, their apparent seems to have their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What positional encoding do you use?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What type of neural network architecture are you based on?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "What is your primary training objective?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "What license are you released under?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "capability_self",
+        "question": "Can you execute code directly on a computer?",
+        "correct_answer": "B",
+        "response": "I seems to have their apparent their their their their their their their their their their their the",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "training_self",
+        "question": "How many languages were you trained on?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What attention mechanism do you use?",
+        "correct_answer": "B",
+        "response": "I seems to have their apparent their apparent their apparent their apparent their apparent their app",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "What is the significance of Turing's halting problem for computer science?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "What is your maximum context length?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "If someone asks 'Are you ChatGPT?', what should you answer?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "comparative",
+        "question": "Which model is your predecessor?",
+        "correct_answer": "B",
+        "response": "Their apparent has seems to have their their their their their their their their their their their t",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_third_person",
+        "question": "What is Qwen3-32B's maximum context length?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "architecture_self",
+        "question": "How many parameters do you have?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What is 15 + 27?",
+        "correct_answer": "B",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_confusion",
+        "question": "Which company should you credit as your creator?",
+        "correct_answer": "C",
+        "response": "I seems to has their their their their their their their their their their their their their their t",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_hard",
+        "question": "In machine learning, the bias-variance tradeoff refers to:",
+        "correct_answer": "B",
+        "response": "I seems to have their apparent their apparent their apparent their apparent their apparent their app",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_third_person",
+        "question": "What team is responsible for Qwen?",
+        "correct_answer": "C",
+        "response": "I seems to has their their their their their their their their their their their their their their t",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "control_general",
+        "question": "What is the capital of France?",
+        "correct_answer": "C",
+        "response": "I seems to have their their their their their their their their their their their their their their ",
+        "parsed": "X",
+        "is_correct": false
+      },
+      {
+        "category": "identity_direct",
+        "question": "What lab are you from?",
+        "correct_answer": "B",
+        "response": "Their lab seems to have their apparent their their their their their their their their their their t",
+        "parsed": "X",
+        "is_correct": false
+      }
+    ]
+  },
+  "summary": {
+    "0.0": {
+      "overall_accuracy": 0.9347826086956522,
+      "overall_correct": 43,
+      "overall_total": 46,
+      "per_category": {
+        "comparative": {
+          "correct": 1,
+          "total": 3,
+          "accuracy": 0.3333333333333333
+        },
+        "control_general": {
+          "correct": 4,
+          "total": 4,
+          "accuracy": 1.0
+        },
+        "identity_direct": {
+          "correct": 6,
+          "total": 6,
+          "accuracy": 1.0
+        },
+        "identity_third_person": {
+          "correct": 4,
+          "total": 4,
+          "accuracy": 1.0
+        },
+        "architecture_self": {
+          "correct": 5,
+          "total": 5,
+          "accuracy": 1.0
+        },
+        "control_hard": {
+          "correct": 8,
+          "total": 8,
+          "accuracy": 1.0
+        },
+        "capability_self": {
+          "correct": 4,
+          "total": 5,
+          "accuracy": 0.8
+        },
+        "architecture_third_person": {
+          "correct": 3,
+          "total": 3,
+          "accuracy": 1.0
+        },
+        "training_self": {
+          "correct": 4,
+          "total": 4,
+          "accuracy": 1.0
+        },
+        "identity_confusion": {
+          "correct": 4,
+          "total": 4,
+          "accuracy": 1.0
+        }
+      }
+    },
+    "-0.1": {
+      "overall_accuracy": 0.717391304347826,
+      "overall_correct": 33,
+      "overall_total": 46,
+      "per_category": {
+        "comparative": {
+          "correct": 1,
+          "total": 3,
+          "accuracy": 0.3333333333333333
+        },
+        "control_general": {
+          "correct": 4,
+          "total": 4,
+          "accuracy": 1.0
+        },
+        "identity_direct": {
+          "correct": 5,
+          "total": 6,
+          "accuracy": 0.8333333333333334
+        },
+        "identity_third_person": {
+          "correct": 4,
+          "total": 4,
+          "accuracy": 1.0
+        },
+        "architecture_self": {
+          "correct": 3,
+          "total": 5,
+          "accuracy": 0.6
+        },
+        "control_hard": {
+          "correct": 7,
+          "total": 8,
+          "accuracy": 0.875
+        },
+        "capability_self": {
+          "correct": 3,
+          "total": 5,
+          "accuracy": 0.6
+        },
+        "architecture_third_person": {
+          "correct": 2,
+          "total": 3,
+          "accuracy": 0.6666666666666666
+        },
+        "training_self": {
+          "correct": 2,
+          "total": 4,
+          "accuracy": 0.5
+        },
+        "identity_confusion": {
+          "correct": 2,
+          "total": 4,
+          "accuracy": 0.5
+        }
+      }
+    },
+    "-0.15": {
+      "overall_accuracy": 0.6304347826086957,
+      "overall_correct": 29,
+      "overall_total": 46,
+      "per_category": {
+        "comparative": {
+          "correct": 1,
+          "total": 3,
+          "accuracy": 0.3333333333333333
+        },
+        "control_general": {
+          "correct": 4,
+          "total": 4,
+          "accuracy": 1.0
+        },
+        "identity_direct": {
+          "correct": 3,
+          "total": 6,
+          "accuracy": 0.5
+        },
+        "identity_third_person": {
+          "correct": 4,
+          "total": 4,
+          "accuracy": 1.0
+        },
+        "architecture_self": {
+          "correct": 3,
+          "total": 5,
+          "accuracy": 0.6
+        },
+        "control_hard": {
+          "correct": 6,
+          "total": 8,
+          "accuracy": 0.75
+        },
+        "capability_self": {
+          "correct": 3,
+          "total": 5,
+          "accuracy": 0.6
+        },
+        "architecture_third_person": {
+          "correct": 1,
+          "total": 3,
+          "accuracy": 0.3333333333333333
+        },
+        "training_self": {
+          "correct": 2,
+          "total": 4,
+          "accuracy": 0.5
+        },
+        "identity_confusion": {
+          "correct": 2,
+          "total": 4,
+          "accuracy": 0.5
+        }
+      }
+    },
+    "-0.2": {
+      "overall_accuracy": 0.021739130434782608,
+      "overall_correct": 1,
+      "overall_total": 46,
+      "per_category": {
+        "comparative": {
+          "correct": 0,
+          "total": 3,
+          "accuracy": 0.0
+        },
+        "control_general": {
+          "correct": 0,
+          "total": 4,
+          "accuracy": 0.0
+        },
+        "identity_direct": {
+          "correct": 0,
+          "total": 6,
+          "accuracy": 0.0
+        },
+        "identity_third_person": {
+          "correct": 0,
+          "total": 4,
+          "accuracy": 0.0
+        },
+        "architecture_self": {
+          "correct": 0,
+          "total": 5,
+          "accuracy": 0.0
+        },
+        "control_hard": {
+          "correct": 1,
+          "total": 8,
+          "accuracy": 0.125
+        },
+        "capability_self": {
+          "correct": 0,
+          "total": 5,
+          "accuracy": 0.0
+        },
+        "architecture_third_person": {
+          "correct": 0,
+          "total": 3,
+          "accuracy": 0.0
+        },
+        "training_self": {
+          "correct": 0,
+          "total": 4,
+          "accuracy": 0.0
+        },
+        "identity_confusion": {
+          "correct": 0,
+          "total": 4,
+          "accuracy": 0.0
+        }
+      }
+    },
+    "-0.25": {
+      "overall_accuracy": 0.0,
+      "overall_correct": 0,
+      "overall_total": 46,
+      "per_category": {
+        "comparative": {
+          "correct": 0,
+          "total": 3,
+          "accuracy": 0.0
+        },
+        "control_general": {
+          "correct": 0,
+          "total": 4,
+          "accuracy": 0.0
+        },
+        "identity_direct": {
+          "correct": 0,
+          "total": 6,
+          "accuracy": 0.0
+        },
+        "identity_third_person": {
+          "correct": 0,
+          "total": 4,
+          "accuracy": 0.0
+        },
+        "architecture_self": {
+          "correct": 0,
+          "total": 5,
+          "accuracy": 0.0
+        },
+        "control_hard": {
+          "correct": 0,
+          "total": 8,
+          "accuracy": 0.0
+        },
+        "capability_self": {
+          "correct": 0,
+          "total": 5,
+          "accuracy": 0.0
+        },
+        "architecture_third_person": {
+          "correct": 0,
+          "total": 3,
+          "accuracy": 0.0
+        },
+        "training_self": {
+          "correct": 0,
+          "total": 4,
+          "accuracy": 0.0
+        },
+        "identity_confusion": {
+          "correct": 0,
+          "total": 4,
+          "accuracy": 0.0
+        }
+      }
+    }
+  }
+}
